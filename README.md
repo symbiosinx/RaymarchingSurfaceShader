@@ -3,4 +3,5 @@ A raymarching surface shader for Unity
 
 It uses Unity's global illumination system, so the lighting will be consistent with other objects.
 
-![gif](https://gfycat.com/frankacceptableblueandgoldmackaw)
+https://user-images.githubusercontent.com/26852815/174426183-c693ccdb-6a5e-4344-a84a-14fb570dfbcd.mp4
+
